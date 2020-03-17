@@ -1,0 +1,2 @@
+# Alogrimtes
+Viser forskellige algoritmer
